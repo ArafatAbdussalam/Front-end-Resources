@@ -11,5 +11,7 @@ The repo is completely open source and can be updated and contributed to by anyo
   <li>[JavaScript DOM Manipulation] (https://www.youtube.com/watch?v=5fb2aPlgoys&t=2s) </li>
   <li>[JavaScript Full Course] (https://www.youtube.com/watch?v=jS4aFq5-91M&t=15374s) </li>
   
-  <li>[Asynchronous JavaScript]  (https://scrimba.com/learn/javascript/module-intro-async-javascript-cNqzpGhL)
+  <li>[Asynchronous JavaScript]  (https://scrimba.com/learn/javascript/module-intro-async-javascript-cNqzpGhL) </li>
+  
+  <li>[Frontend masters] (http://frontendmasters.com/bootcamp/) </li>
 </ul>
